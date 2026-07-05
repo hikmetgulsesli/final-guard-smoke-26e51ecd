@@ -1,0 +1,11 @@
+[
+  {
+    "screenId": "4f19eb5aa6894ca18328add605f87454",
+    "name": "Status Utility - Final Guard Smoke",
+    "type": "app-screen",
+    "description": "Status Utility - Final Guard Smoke screen",
+    "surfaceIds": [
+      "SURF_STATUS_UTILITY"
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "generatedAt": "2026-07-05T03:13:34.247Z",
+  "screenCount": 1,
+  "screens": {
+    "4f19eb5aa6894ca18328add605f87454": {
+      "screenId": "4f19eb5aa6894ca18328add605f87454",
+      "materialSymbolsRequired": true,
+      "sections": [
+        {
+          "tag": "header",
+          "layout": "flex-row",
+          "classes": [
+            "bg-surface",
+            "fixed",
+            "top-0",
+            "w-full",
+            "border-b",
+            "border-outline-variant",
+            "flat",
+            "no",
+            "shadows",
+            "flex"
+          ],
+          "childCount": 2
+        },
+        {
+          "tag": "main",
+          "layout": "flex-col",
+          "classes": [
+            "w-full",
+            "max-w-[800px]",
+            "mt-16",
+            "flex",
+            "flex-col",
+            "gap-gutter"
+          ],
+          "childCount": 18
+        },
+        {
+          "tag": "footer",
+          "layout": "flex-row",
+          "classes": [
+            "bg-surface",
+            "fixed",
+            "bottom-0",
+            "w-full",
+            "border-t",
+            "border-outline-variant",
+            "flat",
+            "no",
+            "shadows",
+            "flex"
+          ],
+          "childCount": 0
+        }
+      ],
+      "buttons": [
+        {
+          "kind": "button",
+          "label": "Status",
+          "classes": [
+            "bg-primary",
+            "text-on-primary",
+            "font-mono-label",
+            "text-mono-label",
+            "px-3",
+            "py-2",
+            "rounded",
+            "flex",
+            "items-center",
+            "gap-1",
+            "hover:opacity-90",
+            "transition-opacity"
+          ],
+          "icon": "refresh",
+          "action": "click-action",
+          "expectedBehavior": "produce visible DOM/state/URL feedback; never empty onClick"
+        }
+      ],
+      "inputs": [],
+      "navLinks": [],
+      "cards": [],
+      "icons": [
+        "schedule",
+        "refresh",
+        "check_circle"
+      ],
+      "images": [],
+      "cssVars": {},
+      "colorPalette": {
+        "surface-dim": "#d2d9f4",
+        "secondary": "#505f76",
+        "surface-container-lowest": "#ffffff",
+        "secondary-fixed-dim": "#b7c8e1",
+        "secondary-container": "#d0e1fb",
+        "on-surface": "#131b2e",
+        "on-tertiary-fixed": "#360f00",
+        "surface": "#faf8ff",
+        "inverse-primary": "#b4c5ff",
+        "on-primary-fixed-variant": "#003ea8",
+        "primary-container": "#2563eb",
+        "on-error-container": "#93000a",
+        "on-tertiary": "#ffffff",
+        "on-surface-variant": "#434655",
+        "on-secondary": "#ffffff",
+        "inverse-surface": "#283044",
+        "inverse-on-surface": "#eef0ff",
+        "on-primary-container": "#eeefff",
+        "primary": "#004ac6",
+        "on-primary": "#ffffff",
+        "primary-fixed": "#dbe1ff",
+        "surface-bright": "#faf8ff",
+        "error-container": "#ffdad6",
+        "background": "#faf8ff",
+        "tertiary-fixed": "#ffdbcd",
+        "on-tertiary-fixed-variant": "#7d2d00",
+        "on-secondary-fixed": "#0b1c30",
+        "on-error": "#ffffff",
+        "outline-variant": "#c3c6d7",
+        "secondary-fixed": "#d3e4fe",
+        "error": "#ba1a1a",
+        "surface-container-low": "#f2f3ff",
+        "surface-variant": "#dae2fd",
+        "surface-container-highest": "#dae2fd",
+        "surface-container-high": "#e2e7ff",
+        "tertiary-fixed-dim": "#ffb596",
+        "outline": "#737686",
+        "tertiary-container": "#bc4800",
+        "on-background": "#131b2e",
+        "on-secondary-container": "#54647a",
+        "surface-container": "#eaedff",
+        "tertiary": "#943700",
+        "primary-fixed-dim": "#b4c5ff",
+        "on-primary-fixed": "#00174b",
+        "on-secondary-fixed-variant": "#38485d",
+        "on-tertiary-container": "#ffede6",
+        "surface-tint": "#0053db",
+        "success": "#16a34a",
+        "warning": "#d97706"
+      },
+      "fonts": [
+        "Material Symbols Outlined",
+        "Inter",
+        "JetBrains Mono"
+      ],
+      "layoutHints": {
+        "gridCols": 1,
+        "flexDirection": "col",
+        "gap": "2"
+      },
+      "behaviorContract": [
+        {
+          "kind": "button",
+          "label": "Status",
+          "icon": "refresh",
+          "action": "click-action",
+          "expectedBehavior": "produce visible DOM/state/URL feedback; never empty onClick"
+        }
+      ],
+      "tabBar": [],
+      "title": "Status Utility - Final Guard Smoke"
+    }
+  }
+}
