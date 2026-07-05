@@ -1,0 +1,25 @@
+[
+  {
+    "screenId": "4f19eb5aa6894ca18328add605f87454",
+    "title": "Status Utility - Final Guard Smoke",
+    "componentName": "StatusUtilityFinalGuardSmoke",
+    "file": "src/screens/StatusUtilityFinalGuardSmoke.tsx",
+    "buttons": 2,
+    "inputs": 0,
+    "links": 0,
+    "actions": [
+      {
+        "id": "button-1-1",
+        "kind": "button",
+        "label": "Button 1",
+        "index": 0
+      },
+      {
+        "id": "refresh-status-2",
+        "kind": "button",
+        "label": "Refresh Status",
+        "index": 1
+      }
+    ]
+  }
+]
