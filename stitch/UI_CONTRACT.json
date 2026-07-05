@@ -1,0 +1,27 @@
+[
+  {
+    "screenId": "4f19eb5aa6894ca18328add605f87454",
+    "screenTitle": "Status Utility - Final Guard Smoke",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "Status",
+        "line": 198
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Status",
+        "line": 198
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 1,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
